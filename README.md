@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="left">hey there👋<br>I am Rishal Singh</h1>
+<h1 align="left">hey there👋<br>I am Rishal </h1>
 
 ###
 
@@ -62,9 +62,5 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
